@@ -1,0 +1,72 @@
+[
+    {
+        "name": "year",
+        "enabled": true,
+        "min": 1,
+        "max": 100,
+        "value": ""
+    },
+    {
+        "name": "quarter",
+        "enabled": true,
+        "min": 1,
+        "max": 4,
+        "value": ""
+    },
+    {
+        "name": "month",
+        "enabled": true,
+        "min": 1,
+        "max": 12,
+        "value": ""
+    },
+    {
+        "name": "week",
+        "enabled": true,
+        "min": "",
+        "max": "",
+        "value": ""
+    },
+    {
+        "name": "day",
+        "enabled": true,
+        "min": "",
+        "max": "",
+        "value": ""
+    },
+    {
+        "name": "hour",
+        "enabled": true,
+        "min": "",
+        "max": "",
+        "value": ""
+    },
+    {
+        "name": "minute",
+        "enabled": false,
+        "min": "",
+        "max": "",
+        "value": ""
+    },
+    {
+        "name": "date-from",
+        "enabled": true,
+        "min": "2025-02-05",
+        "max": "2025-02-25",
+        "value": ""
+    },
+    {
+        "name": "date-to",
+        "enabled": true,
+        "min": "",
+        "max": "",
+        "value": ""
+    },
+    {
+        "name": "date-from-to",
+        "enabled": true,
+        "min": "",
+        "max": "",
+        "value": ""
+    }
+]
